@@ -10,7 +10,7 @@ Simple tictactoe game server
 
 1. Clone the repository: `git clone https://github.com/ivofreitas/tictactoe-api.git`
 2. Install dependencies: `go mod tidy`
-3. Run the server: `go run main.go`
+3. Run the server: `go run cmd/main.go`
 4. Testing with coverage:  `go test -cover ./...`
 
 ## Usage
