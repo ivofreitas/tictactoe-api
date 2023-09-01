@@ -49,3 +49,7 @@ Running it in a docker container:
 1. Docker image: `docker build -t tictactoe-api .`
 
 2. Run: `docker run -p 8088:8088 tictactoe-api`
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
